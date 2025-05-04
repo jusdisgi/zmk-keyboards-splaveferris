@@ -4,7 +4,7 @@ This repository contains the shield files for the [SplaveFerris](https://github.
 
 ## Usage
 
-Edit your west.yml file found in your zmk-config's config directory to add the akohekohe module. Example:
+Edit your west.yml file found in your zmk-config's config directory to add the splaveferris module. Example:
 
 ```
 manifest:
