@@ -1,4 +1,4 @@
-# katori ZMK Module
+# SplaveFerris ZMK Module
 
 This repository contains the shield files for the [SplaveFerris](https://github.com/jusdisgi/SplaveFerris) to allow users to build firmware. This can be done by adding the module to the west.yml found in your zmk-config's config directory. There is a full guide available for this here: [ZMK Modules Doc](https://zmk.dev/docs/features/modules)
 
